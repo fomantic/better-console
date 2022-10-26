@@ -1,5 +1,8 @@
 # Better Console
 
+> ### Forked Version using updated dependencies
+> Original repo at https://github.com/mohsen1/better-console
+
 ![Screenshot](https://raw.github.com/mohsen1/better-console/master/screenshot.png)
 
 ## Installation
